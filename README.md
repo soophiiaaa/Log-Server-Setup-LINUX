@@ -1,2 +1,3 @@
-# Log-Server-Setup-LINUX
-Repositório para a simulação, configuração de servidor e rotação de logs. Utilizando comandos como 'rsyslog' e 'logrotate'.
+# Log Server - LINUX
+
+Esse repositório apresenta uma simulação de servidor para logs e suas rotações. Colocando em prática comandos essenciais para ambientes de desenvolvimento em LINUX.
